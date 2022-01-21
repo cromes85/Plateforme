@@ -1,0 +1,12 @@
+
+body{
+background-image: url("./Img/backgroung.png");
+background-size: cover;
+background-color: #cccccc;
+}
+.clock{  
+color:rgb(5, 5, 5);
+font-size: 40px;
+display: flex;
+justify-content: center;
+}

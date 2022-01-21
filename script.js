@@ -16,7 +16,7 @@ genre = "Homme"
 //     alert("Salut " + prenom)
 // }
 
-document.getElementById('Name').innerHTML = prompt("votre nom ? : tutu")
+document.getElementById('Name').innerHTML = prompt("votre nom ? : ")
 // Date
 function refresh(){
     var t = 1000; // rafraîchissement en millisecondes
